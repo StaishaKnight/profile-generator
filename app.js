@@ -11,7 +11,7 @@ const pathtodist=path.resolve(__dirname,"dist")
 const filetodist=path.join(pathtodist,"team.html")
 
 const generateteamhtml=require("./src/generateHTML")
-const teammemberarray=[]
+const teammemberarray=[] 
 
 
 //  Prompts //
